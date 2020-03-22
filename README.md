@@ -1,4 +1,4 @@
-# javascript Basic Sintaxes
+# javascript Basics Syntax
 ## Conteúdo de referência para utilização de sintaxes básicas do javascript. 
 
 1. AJAX
